@@ -1,4 +1,4 @@
-# Visualizador de Memória RAM
+# Visualizador de Memória RAM :electric_plug:
 
 Visualizador de uso da memória RAM desenvolvido com node.js durante o curso "Introdução ao Node.js com JavaScript" da [DIO](https://web.dio.me/)
 
